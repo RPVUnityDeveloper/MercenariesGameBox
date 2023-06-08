@@ -1,0 +1,47 @@
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+obj/
+Build/
+Library/
+ProjectSettings/
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+.vs/
+.idea/
+
+# ================================================ #
+# Exclude all the compiled dlls, pdb and build log #
+# ================================================ #
+*.dll
+*.pdb
+*.log
+*.meta
+
+# ============ #
+# MacOS Files #
+# ============ #
+.DS_Store
+__MACOSX/
+
+# ================ #
+# Thumbnails files #
+# ================ #
+Thumbnails/
+
+# =============== #
+# Android files   #
+# =============== #
+*.aar
+*.apk
+
+# =============== #
+# Other files     #
+# =============== #
+*.sln
+*.userprefs
+*.csproj
+*.pidb
